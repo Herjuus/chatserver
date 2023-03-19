@@ -1,1 +1,2 @@
-# Shitty chat server fr | No realtime yet
+# ImChat server
+No Realtime | Not working on the project anymore (for now)
